@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+*.tfvars
+override.tf
+override.tf.json
+
+# Archivos grandes
+*.zip
+*.tar.gz
+*.exe
